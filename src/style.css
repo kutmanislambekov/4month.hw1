@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.App{
+   margin-left: 45%;
+   margin-top: 200px;
+   border: 2px solid red;
+   border-radius: 20px;
+   width: 80px;
+   padding: 40px;
+   background-color: hotpink ;
+}
+button{
+    background-color: chartreuse;
+    height: 40px;
+    width: 30px;
+}
+button:hover{
+ background-color: green;
+ cursor: pointer;
+}
